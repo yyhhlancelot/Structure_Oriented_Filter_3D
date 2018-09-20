@@ -1,7 +1,10 @@
 # naive bayes for SanFrancisco Crime Classfication
 
 ## Brief introduction
+
 train a naive bayes model to predict the probability of SanFrancisco Crime.
+
+all.zip includes the training data and test data, and the submission format.
 
 data_analysis.py includes data preprocessing of training data and test data. 
 
