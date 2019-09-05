@@ -3,7 +3,7 @@
 ## 输入/输出
 matlab  .mat格式
 ## 代码环境
-armadillo-9.600.6 / matlab C++混合编程
+armadillo-9.600.6 / matlab C++混合编程 / 未使用openCV
 ## 数据维度
 Inline x Xline x Times (也可以使用其他三维数据，例如彩色图片)
 ## 注释
