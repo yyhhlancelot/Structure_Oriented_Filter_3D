@@ -8,7 +8,7 @@ armadillo-9.600.6 / matlab C++混合编程
 Inline x Xline x Times (也可以使用其他三维数据，例如彩色图片)
 ## 注释
 * main.cpp : demo，包括读取数据，转换数据格式，处理数据，写数据<br>
-* read_mat.h : 包含了读写数据的函数<br>
+* ReadWriteMat.h : 包含了读写数据的函数<br>
 * StructureOrientedFiltering.h : 结构导向滤波<br>
 * pch.h : 预编译头文件<br>
 * pch.cpp : 与预编译头对应的源文件<br>
