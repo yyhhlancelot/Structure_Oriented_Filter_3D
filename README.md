@@ -14,8 +14,8 @@ Inline x Xline x Times (也可以使用其他三维数据，例如彩色图片)
 * pch.cpp : 与预编译头对应的源文件<br>
 ## 效果
 #### 处理前：
-<img src="https://github.com/yyhhlancelot/StuctureOrientedFilter_3D/blob/master/before.png" width="350"><br>
+<img src="https://github.com/yyhhlancelot/StuctureOrientedFilter_3D/blob/master/pics/before.png" width="350"><br>
 #### 处理后：
-<img src="https://github.com/yyhhlancelot/StuctureOrientedFilter_3D/blob/master/after.png" width="350"><br>
+<img src="https://github.com/yyhhlancelot/StuctureOrientedFilter_3D/blob/master/pics/after.png" width="350"><br>
 #### 差值：
-<img src="https://github.com/yyhhlancelot/StuctureOrientedFilter_3D/blob/master/diff.png" width="350"><br>
+<img src="https://github.com/yyhhlancelot/StuctureOrientedFilter_3D/blob/master/pics/diff.png" width="350"><br>
